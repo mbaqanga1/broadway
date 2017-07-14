@@ -1,0 +1,48 @@
+/* Main heading */
+.heading1{
+    font-family: helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+#Top  {
+      font-family: helvetica;
+      font-size: 18px;
+      color: white;
+      text-align: center;
+    }
+
+/* Our process*/
+process {
+        font-family: helvetica;
+        font-size: 32px;
+        font-weight: bold;
+}
+Identify,Understang,Execute,Portfolio,Team, Contact{
+        font-family: helvetica;
+        font-size: 23px;
+        font-weight: bold;
+}
+Descriptors{
+        font-family: helvetica;
+        font-size: 14px;
+        font-weight: bold;
+}
+/*Designed in NewYork*/
+heading2 {
+        font-family: helvetica;
+        font-size: 23px;
+        font-weight: bold;
+        color: white;
+      }
+
+  /* Portfolio Team Contact section*/
+footerbar{
+      font-family: helvetica;
+      font-size: 11px;
+      background-color: dimgray;
+      color: white;
+}
+  /*Contact Navigation Bar*/
