@@ -12,18 +12,20 @@
       font-size: 18px;
       color: white;
       text-align: center;
-    }
+        }
 
 /* Our process*/
-process {
+.process {
         font-family: helvetica;
         font-size: 32px;
         font-weight: bold;
+        text-align: center;
 }
-Identify,Understang,Execute,Portfolio,Team, Contact{
+.cap1,.cap2,.cap3,.cap4,.cap5, .cap6{
         font-family: helvetica;
         font-size: 23px;
         font-weight: bold;
+        text-align: center;
 }
 Descriptors{
         font-family: helvetica;
